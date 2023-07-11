@@ -37,7 +37,7 @@ migrate_working_dir/
 /android/
 /ios/
 /web/
-**/lock
+*.lock
 
 # Web related
 lib/generated_plugin_registrant.dart
