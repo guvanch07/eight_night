@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "933638951264",
+    "project_id": "eight-night",
+    "storage_bucket": "eight-night.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933638951264:android:9e779fc3c959baf39c0e05",
+        "android_client_info": {
+          "package_name": "com.example.eight_night"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933638951264-vs4go1aceu3ukgorc14ggcus39pk2a8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eight_night",
+            "certificate_hash": "db229faad4d94d43d619fe1a61ce0acc935952a4"
+          }
+        },
+        {
+          "client_id": "933638951264-lpg2ak8ov6hfpttu82vaak2ktjg9h69q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuwF--VW5hVDSTPVRv0gz4ZLm51HJFBvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933638951264-lpg2ak8ov6hfpttu82vaak2ktjg9h69q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933638951264-v65mmp0pdd9pnh00ua7q8i4qm7rm68n3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eightNight"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
